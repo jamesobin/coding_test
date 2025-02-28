@@ -1,6 +1,6 @@
 # [level 0] 최댓값 만들기 (1) - 120847 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120847?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120847) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 28일 11:18:16
+2025년 02월 28일 11:18:19
 
 ### 문제 설명
 

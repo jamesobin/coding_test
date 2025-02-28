@@ -1,6 +1,3 @@
 def solution(numbers):
-    desc = sorted(numbers, reverse=True)
-    
-    answer = desc[0] * desc[1]
-    
+    answer = 0
     return answer
